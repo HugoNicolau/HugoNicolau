@@ -36,7 +36,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
 
 [<img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCWOwExL3VPsGUsUWf8wFw7Q)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hugo-nicolau/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hugo_giles/)
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nicolau.hugogiles@gmail.com)
 
 
