@@ -25,8 +25,24 @@
 <img align="left" alt="JavaScript" width="26px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" title="React"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-     <img align="left" alt="Trello" width="26px" title="Trello"
+<img align="left" alt="Node.js" width="26px" title="Node.js"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express.js" width="26px" title="Express.js"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Mongo DB" width="26px" title="Mongo DB"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="PostgreSQL" width="26px" title="PostgreSQL"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Trello" width="26px" title="Trello"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+<img align="left" alt="Figma" width="26px" title="Figma"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Slack" width="26px" title="Slack"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />  
+<img align="left" alt="Git" width="26px" title="Git"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+<img align="left" alt="GitHub" width="26px" title="GitHub"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
 <br/>
 <br/>
 <br/>
