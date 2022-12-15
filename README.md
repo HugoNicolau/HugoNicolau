@@ -17,6 +17,7 @@
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugonicolau&layout=compact&theme=dracula)
 <br/>
+[![wakatime](https://wakatime.com/badge/user/502fa432-c86c-4ff9-9183-cdf588b7b830.svg)](https://wakatime.com/@502fa432-c86c-4ff9-9183-cdf588b7b830)
 <br/>
 <br/>
 ## Languages and Tools
