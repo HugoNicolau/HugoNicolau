@@ -45,6 +45,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 <img align="left" alt="GitHub" width="26px" title="GitHub"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
+<img align="left" alt="C" width="26px" title="C"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+          
 <br/>
 <br/>
 <br/>
