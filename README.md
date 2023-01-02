@@ -1,6 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> Hi, I’m Hugo Nicolau
 
-**Happy new year!!!**
 
 - 👀 I’m interested in languages, travel, mangas/webtoons, youtube, learn and teach programming.
 - 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
