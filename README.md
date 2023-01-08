@@ -4,7 +4,7 @@
 - 👀 I’m interested in languages, travel, mangas/webtoons, youtube, learn and teach programming.
 - 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
 - 💞️ I’m looking to collaborate on open source, learn languages and to produce content.
-- 📫 I'm Brazilian and speak portuguese, english and currently studying french.
+- 📫 I'm Brazilian and I speak portuguese, english and currently studying french.
 <br/>
 
 
