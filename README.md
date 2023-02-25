@@ -11,15 +11,15 @@
 ## My stats
 [![wakatime](https://wakatime.com/badge/user/502fa432-c86c-4ff9-9183-cdf588b7b830.svg)](https://wakatime.com/@502fa432-c86c-4ff9-9183-cdf588b7b830)
 <br/>
-<!--![HugoNicolau's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugonicolau&show_icons=true&theme=dracula) 
+<!-- ![HugoNicolau's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugonicolau&show_icons=true&theme=dracula) 
 <br/> -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HugoNicolau&theme=dracula)](https://git.io/streak-stats)
 <br/>
 ![HugoNicolau's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nicolau&layout=compact&langs_count=8&theme=dracula)
 <br/>
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugonicolau&layout=compact&theme=dracula)
--->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugonicolau&layout=compact&theme=dracula)
+ -->
 
 <br/>
 <br/>
@@ -30,6 +30,8 @@
 <img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" title="TypeScript" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="26px" title="React"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="26px" title="Node.js"
@@ -40,6 +42,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="PostgreSQL" width="26px" title="PostgreSQL"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Jest" width="26px" title="Jest"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Trello" width="26px" title="Trello"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Figma" width="26px" title="Figma"
