@@ -44,6 +44,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Jest" width="26px" title="Jest"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="Docker" width="26px" title="Docker"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Redis" width="26px" title="Redis"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
+<img align="left" alt="Amazon Web Services (AWS)" width="26px" title="Amazon Web Services (AWS)"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img align="left" alt="Trello" width="26px" title="Trello"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Figma" width="26px" title="Figma"
