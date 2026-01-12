@@ -15,15 +15,6 @@
 ## Minhas estatísticas
 [![wakatime](https://wakatime.com/badge/user/502fa432-c86c-4ff9-9183-cdf588b7b830.svg)](https://wakatime.com/@502fa432-c86c-4ff9-9183-cdf588b7b830)
 <br/>
-![HugoNicolau's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugonicolau&show_icons=true&theme=dracula) 
-<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HugoNicolau&theme=dracula)](https://git.io/streak-stats)
-<br/>
-![HugoNicolau's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nicolau&layout=compact&langs_count=8&theme=dracula)
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugonicolau&layout=compact&theme=dracula)
-
 
 <br/>
 <br/>
