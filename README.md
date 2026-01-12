@@ -15,6 +15,7 @@
 ## Minhas estatísticas
 [![wakatime](https://wakatime.com/badge/user/502fa432-c86c-4ff9-9183-cdf588b7b830.svg)](https://wakatime.com/@502fa432-c86c-4ff9-9183-cdf588b7b830)
 <br/>
+![Top Langs](https://wakatime.com/share/@Nicolau/efb7a5d6-4eec-412a-835c-6e0639340a13.svg)
 
 <br/>
 <br/>
@@ -89,6 +90,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 ## My stats
 [![wakatime](https://wakatime.com/badge/user/502fa432-c86c-4ff9-9183-cdf588b7b830.svg)](https://wakatime.com/@502fa432-c86c-4ff9-9183-cdf588b7b830)
 <br/>
+![Top Langs](https://wakatime.com/share/@Nicolau/efb7a5d6-4eec-412a-835c-6e0639340a13.svg)
 
 <br/>
 <br/>
